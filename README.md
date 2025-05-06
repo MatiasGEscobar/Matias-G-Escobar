@@ -37,9 +37,9 @@
 **Proyectos:**
 
 - Bootcamp de Henry (Modulo 1) **Mi pagina web**: Proyecto personal para practicar HTML, CSS y JavaScript.
-- Bootcamp de Henry (Modulo 4) **Back Ecommerce**: API RESTful desarrollada con NestJS y PostgreSQL para la gestión de productos, usuarios y pedidos.
 - Bootcamp de Henry (Modulo 2) **Universo Cine**: Aplicación web utilizando React para explorar información sobre películas y series.
 - Bootcamp de Henry (Modulo 3) **Divina Aura Estetica**: Plataforma para la gestión de citas y servicios de un centro de estética.
+- Bootcamp de Henry (Modulo 4) **Back Ecommerce**: API RESTful desarrollada con NestJS y PostgreSQL para la gestión de productos, usuarios y pedidos.
 - Bootcamp de Henry (Proyecto Final Grupal) **Beast Mode Gym**: Plataforma integral para el sector fitness (API con NestJS, Frontend con React, autenticación, pagos, notificaciones).
 
 **Conéctate conmigo:**
@@ -49,7 +49,7 @@
   <a href="https://fb.com/matiie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
   <a href="https://instagram.com/matii91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
   <a href="https://discord.gg/matii2184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-  <a href="mailto:matiie9135@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+  <a href="mailto:matiie9135@gmail.com"><img align="center" src="[https://1000marcas.net/logo-gmail/](https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png)" alt="gmail" height="30" width="40" /></a>
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=matiasgescobar&show_icons=true&locale=en" alt="GitHub Stats" /></p>
